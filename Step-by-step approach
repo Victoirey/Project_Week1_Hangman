@@ -1,0 +1,26 @@
+With 2 players(the host and the player), the host chooses a secret word or sentence.
+
+Input player1 name and player2 name
+
+Randomly pick up who is the host and who is the player
+
+The Host inputs the WORD or sentence.
+
+For each letter of the WORD or sentence, the program displays an underscore (_) in a new string GUESS.
+
+The player inputs a LETTER as a first guess
+the LETTER is in the word: the LETTER replaces the underscore in GUESS at the same position it is in the WORD. In case the LETTER appears several times, the underscore is replaced as many times it appears.
+the LETTER  is not in the word: the integer TRIALS takes +1
+
+If the player guesses more than 1 LETTER at a trial:
+LETTER==WORD : the game stops and the player has won
+LETTER!=WORD: TRIALS +1
+
+When TRIALS reaches 10, the game stops: the player has lost
+
+If GUESS==WORD and TRIALS<10, the game stops: the player has won
+
+
+
+
+
