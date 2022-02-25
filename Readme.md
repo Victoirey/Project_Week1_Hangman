@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Hangman game
+*[Daniel Smadja Victoire Rey]*
 
-*[Your Cohort, Campus & Date]*
+*[Data analytics, Feb-22, Paris]*
 
 ## Content
 - [Project Description](#project-description)
