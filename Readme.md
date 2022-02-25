@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Hangman game
-*[Daniel Smadja Victoire Rey]*
+*Daniel Smadja Victoire Rey*
 
-*[Data analytics, Feb-22, Paris]*
+*Data analytics, Feb-22, Paris*
 
 ## Content
 - [Project Description](#project-description)
