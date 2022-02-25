@@ -16,7 +16,9 @@
 Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
 
 ## Rules
-Briefly describe the rules of the game.
+A player ("the Host") thinks of a word or phrase that should be guessed by a second player, ("the Player") letter by letter. To help the Player, a number of dashes equivalent to the number of letters in the word are displayed. 
+- If the Player suggests a letter that occurs in the word, the Host fills in the blanks with that letter in the right places. 
+- If the word does not contain the suggested letter, the Host draws one element of a hangman’s gallows. As the game progresses, a segment of the gallows and of a victim is added for every suggested letter not in the word. The number of incorrect guesses before the game ends is defined at 10.
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
