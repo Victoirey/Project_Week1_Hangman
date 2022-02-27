@@ -38,12 +38,10 @@ A player ("the Host") thinks of a word or phrase that should be guessed by a sec
 - Slides
 - Pitch
 
-![image](https://user-images.githubusercontent.com/97622659/155879552-339d0b68-ffd1-4b21-9499-e3223ead0b74.png)
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+- We worked together for initialize the project, understand the goals and define the tasks of each one. 
+- We used Jira to organize de workflow and Google collab to collaborate. 
 
 ## Links
 
